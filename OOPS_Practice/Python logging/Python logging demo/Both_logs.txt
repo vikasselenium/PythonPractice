@@ -1,0 +1,5 @@
+15/09/2025 01:09:18 PM CRITICAL demo_logger This is critical message
+15/09/2025 01:09:18 PM ERROR demo_logger This is error message
+15/09/2025 01:09:18 PM WARNING demo_logger This is warning message
+15/09/2025 01:09:18 PM INFO demo_logger This is info message
+15/09/2025 01:09:18 PM DEBUG demo_logger This is debug message

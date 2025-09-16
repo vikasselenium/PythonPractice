@@ -1,0 +1,33 @@
+CRITICAL:root:This is critical message
+2025-09-10 11:41:28,387: CRITICAL : This is a critical message
+2025-09-10 11:41:28,387: ERROR : This is a error message
+2025-09-10 11:41:28,388: WARNING : This is a warning message
+2025-09-10 11:41:32,057: CRITICAL : This is a critical message
+2025-09-10 11:41:32,057: ERROR : This is a error message
+2025-09-10 11:41:32,057: WARNING : This is a warning message
+2025-09-10 11:41:50,980: CRITICAL : This is a critical message
+2025-09-10 11:41:50,980: ERROR : This is a error message
+2025-09-10 11:41:50,980: WARNING : This is a warning message
+2025-09-10 11:42:26,634: CRITICAL : This is a critical message
+2025-09-10 11:42:26,635: ERROR : This is a error message
+2025-09-10 11:42:26,635: WARNING : This is a warning message
+CRITICAL : This is a critical message
+ERROR : This is a error message
+WARNING : This is a warning message
+10/09/2025 12/41/40 PM-INFO-New Req
+10/09/2025 12/41/44 PM-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\Users\viharida\Desktop\My_WorkSpace\OOPS_Practice\Python logging\how to add exception info to log messages.py", line 12, in <module>
+    res=x/y
+        ~^~
+ZeroDivisionError: division by zero
+10/09/2025 12/41/44 PM-INFO-Request process completed
+10/09/2025 03/26/38 PM-INFO-New Req
+10/09/2025 -03:27:38 PM-CRITICAL-root-This is aa critical message
+10/09/2025 -03:27:38 PM-ERROR-root-This is error message
+10/09/2025 -03:27:38 PM-WARNING-root-This is warning message
+10/09/2025 -03:27:38 PM-INFO-root-This is info message
+10/09/2025 -03:27:38 PM-DEBUG-root-This is debug message
+CRITICAL:root:This is critical message
+ERROR:root:This is a error message
+WARNING:root:This is warning message

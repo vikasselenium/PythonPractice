@@ -1,0 +1,6 @@
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 Element found using id with valueemail1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 Element found using id with valuepassword1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 Element found using class with valuesubmit-btn
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 Element found using class with valuewelcomeMessage
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 Element found using xpath with value//img[@alt='menu']
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 Element found using xpath with value//button[normalize-space()='Sign out']

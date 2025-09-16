@@ -1,0 +1,50 @@
+10/09/25 08:13:50 PM- CRITICAL- <module> logger- Critical
+10/09/25 08:13:50 PM- ERROR- <module> logger- error
+10/09/25 08:13:50 PM- WARNING- <module> logger- warning
+10/09/25 08:13:50 PM- INFO- <module> logger- info
+10/09/25 08:13:50 PM- DEBUG- <module> logger- debug
+10/09/25 08:15:46 PM- CRITICAL- f1logger- Critical
+10/09/25 08:15:46 PM- ERROR- f1logger- error
+10/09/25 08:15:46 PM- WARNING- f1logger- warning
+10/09/25 08:15:46 PM- INFO- f1logger- info
+10/09/25 08:15:46 PM- DEBUG- f1logger- debug
+10/09/25 08:16:05 PM- CRITICAL- f1 logger- Critical
+10/09/25 08:16:05 PM- ERROR- f1 logger- error
+10/09/25 08:16:05 PM- WARNING- f1 logger- warning
+10/09/25 08:16:05 PM- INFO- f1 logger- info
+10/09/25 08:16:05 PM- DEBUG- f1 logger- debug
+10/09/25 08:22:42 PM- CRITICAL- f1 logger- Critical message from f1
+10/09/25 08:22:42 PM- ERROR- f1 logger- Error message from f1
+10/09/25 08:22:42 PM- WARNING- f1 logger- Warning message from f1
+10/09/25 08:22:42 PM- INFO- f1 logger- Info message from f1
+10/09/25 08:22:42 PM- DEBUG- f1 logger- Debug message from f1
+10/09/25 08:22:42 PM- CRITICAL- f2 logger- Critical message from f2
+10/09/25 08:22:42 PM- ERROR- f2 logger- Error message from f2
+10/09/25 08:22:42 PM- WARNING- f2 logger- Warning message from f2
+10/09/25 08:22:42 PM- INFO- f2 logger- Info message from f2
+10/09/25 08:22:42 PM- DEBUG- f2 logger- Debug message from f2
+10/09/25 08:30:00 PM- CRITICAL- f1 logger- Critical message from f1
+10/09/25 08:30:00 PM- ERROR- f1 logger- Error message from f1
+10/09/25 08:30:00 PM- WARNING- f1 logger- Warning message from f1
+10/09/25 08:30:00 PM- INFO- f1 logger- Info message from f1
+10/09/25 08:30:00 PM- DEBUG- f1 logger- Debug message from f1
+10/09/25 08:30:00 PM- CRITICAL- f2 logger- Critical message from f2
+10/09/25 08:30:00 PM- ERROR- f2 logger- Error message from f2
+10/09/25 08:30:00 PM- WARNING- f2 logger- Warning message from f2
+10/09/25 08:30:00 PM- INFO- f2 logger- Info message from f2
+10/09/25 08:30:00 PM- DEBUG- f2 logger- Debug message from f2
+10/09/25 08:30:09 PM- CRITICAL- Animal- This is a critical message
+10/09/25 08:30:09 PM- ERROR- Animal- This is a error message
+10/09/25 08:30:09 PM- WARNING- Animal- This is a warning message
+10/09/25 08:30:09 PM- INFO- Animal- This is info message
+10/09/25 08:30:09 PM- DEBUG- Animal- This is a debug message
+11/09/25 02:33:09 PM- CRITICAL- f1 logger- Critical message from f1
+11/09/25 02:33:09 PM- ERROR- f1 logger- Error message from f1
+11/09/25 02:33:09 PM- WARNING- f1 logger- Warning message from f1
+11/09/25 02:33:09 PM- INFO- f1 logger- Info message from f1
+11/09/25 02:33:09 PM- DEBUG- f1 logger- Debug message from f1
+11/09/25 02:33:09 PM- CRITICAL- f2 logger- Critical message from f2
+11/09/25 02:33:09 PM- ERROR- f2 logger- Error message from f2
+11/09/25 02:33:09 PM- WARNING- f2 logger- Warning message from f2
+11/09/25 02:33:09 PM- INFO- f2 logger- Info message from f2
+11/09/25 02:33:09 PM- DEBUG- f2 logger- Debug message from f2

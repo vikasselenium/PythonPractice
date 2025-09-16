@@ -1,0 +1,16 @@
+DEBUG:root:This is debug logging
+INFO:root:This is Info logging
+WARNING:root:This is warning message
+ERROR:root:This is error message
+2025-09-07 20:32:24,468 DEBUG - This is debug logging
+2025-09-07 20:32:24,468 INFO - This is Info logging
+2025-09-07 20:32:24,470 WARNING - This is warning message
+2025-09-07 20:32:24,470 ERROR - This is error message
+2025-09-07 20:32:33,062 DEBUG - This is debug logging
+2025-09-07 20:32:33,062 INFO - This is Info logging
+2025-09-07 20:32:33,064 WARNING - This is warning message
+2025-09-07 20:32:33,064 ERROR - This is error message
+2025-09-07 20:47:19,538 DEBUG - This is debug logging
+2025-09-07 20:47:19,538 INFO - This is Info logging
+2025-09-07 20:47:19,540 WARNING - This is warning message
+2025-09-07 20:47:19,540 ERROR - This is error message

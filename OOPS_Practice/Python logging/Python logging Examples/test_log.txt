@@ -1,0 +1,12 @@
+10/09/Y 06:34:41 PM - CRITICAL - test_logger - This is critical message
+10/09/Y 06:34:41 PM - ERROR - test_logger - This is error message
+10/09/Y 06:34:41 PM - WARNING - test_logger - This is warning message
+10/09/Y 06:34:41 PM - DEBUG - test_logger - This is debug message
+10/09/Y 06:34:55 PM - CRITICAL - test_logger - This is critical message
+10/09/Y 06:34:55 PM - ERROR - test_logger - This is error message
+10/09/Y 06:34:55 PM - WARNING - test_logger - This is warning message
+10/09/Y 06:34:55 PM - DEBUG - test_logger - This is debug message
+10/09/2025 06:35:19 PM - CRITICAL - test_logger - This is critical message
+10/09/2025 06:35:19 PM - ERROR - test_logger - This is error message
+10/09/2025 06:35:19 PM - WARNING - test_logger - This is warning message
+10/09/2025 06:35:19 PM - DEBUG - test_logger - This is debug message

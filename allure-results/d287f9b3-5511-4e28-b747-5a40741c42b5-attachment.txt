@@ -1,0 +1,9 @@
+application is up and running
+Element found
+Clicked on element
+Element found
+Clicked on element
+Element found
+Click on element
+Element found
+Closing the browser

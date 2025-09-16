@@ -1,0 +1,26 @@
+#File Handling in Python - Summary
+
+File Types:
+- Text files: .txt (plain text data)
+- Binary files: .jpg, .mp4 (images, audio, etc.)
+
+Opening a file:
+Use open(filename, mode) to access a file before performing any operations.
+
+File Modes:
+'r'   : Read-only (default). Raises FileNotFoundError if the file doesn't exist.
+'w'   : Write-only. Overwrites existing data or creates a new file if it doesn't exist.
+'a'   : Append-only. Adds data to the end of the file. Creates a new file if it doesn't exist.
+'r+'  : Read and write. Allows reading and writing; writing will overwrite existing content.
+'w+'  : Write and read. Overwrites existing data or creates a new file.
+'a+'  : Append and read. Appends data without overwriting. Creates a new file if it doesn't exist.
+'x'   : Exclusive creation. Raises FileExistsError if the file already exists; otherwise, creates a new file.
+
+Example usage:
+f1 = open('abc.txt', 'r')    # Read-only
+f2 = open('abc_new.txt', 'w')  # Write-only
+f3 = open('abc_new.txt', 'a')  # Append-only
+f4 = open('abc.txt', 'r+')   # Read and write
+f5 = open('abc.txt', 'w+')   # Write and read
+f6 = open('abc.txt', 'a+')   # Append and read
+f7 = open('abc.txt', 'x')    # Exclusive write

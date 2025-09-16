@@ -1,0 +1,10 @@
+2025-09-08 15:16:31,309 - SeleniumDriver - INFO - Element found using id with valueemail1
+2025-09-08 15:16:31,587 - SeleniumDriver - INFO - Element found using id with valuepassword1
+2025-09-08 15:16:31,684 - SeleniumDriver - INFO - Element found using class with valuesubmit-btn
+2025-09-08 15:16:34,389 - SeleniumDriver - INFO - Element found using class with valuewelcomeMessage
+2025-09-08 15:16:34,415 - SeleniumDriver - INFO - Element found using xpath with value//img[@alt='menu']
+2025-09-08 15:16:34,482 - SeleniumDriver - INFO - Element found using xpath with value//button[normalize-space()='Sign out']
+2025-09-08 15:16:34,993 - SeleniumDriver - INFO - Element found using id with valueemail1
+2025-09-08 15:16:35,184 - SeleniumDriver - INFO - Element found using id with valuepassword1
+2025-09-08 15:16:35,232 - SeleniumDriver - INFO - Element found using class with valuesubmit-btn
+2025-09-08 15:16:45,315 - SeleniumDriver - INFO - Element not found using class with valuewelcomeMessage

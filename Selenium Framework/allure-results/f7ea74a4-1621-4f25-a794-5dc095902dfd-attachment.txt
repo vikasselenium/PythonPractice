@@ -1,0 +1,11 @@
+application is up and running
+Clicked on element
+can not click on element 'Logger' object is not callable
+Clicked on element
+can not click on element 'Logger' object is not callable
+Click on element
+Can not click on element  'Logger' object is not callable
+Click on element
+Can not click on element  'Logger' object is not callable
+Click on element
+Can not click on element  'Logger' object is not callable

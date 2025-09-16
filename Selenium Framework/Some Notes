@@ -1,0 +1,71 @@
+
+
+1.  Test case standardization: design patterns:
+    each and every tests will be written in a specific format that way we can
+    have uniformity
+
+2.  Logging standards:  dedicated component for logging if something goes wrong
+    log4j, we will keep print statement very less in framework
+
+3.  Test data and configuration utility: dedicated library for reading data from excel
+    we will have .ini file as configuration file.
+    script should be only for assertion
+
+4.  Helper and utility:  reusable, standard across all projects, screenshots
+
+5.  Test case execution engine: all the tests will be writen as pytest
+    fixtures/markers
+
+ 6. Reporting: clear, concise should have all reports we want
+              allure report, pytest report
+
+ Basic framework design:
+ ======================
+ Test runner: pytest
+ Data provider : configure file and allure report
+ Reporter: Allure reports
+ Helper/Reusable
+ Logger: log4j
+ Tests: POM
+
+LMS -> thermofisher
+
+##################################################################3333
+browser_factory classs - returns driver specific to browser
+
+Page class for login
+
+tuples=> locators
+functions to act on locators
+enter_email
+enter_password
+
+selenium_driver class-> that will have all wrapper functions for built in selenium functions
+
+get_type_by() --
+get_element
+type_element
+click_element
+
+
+Allure Report:
+==============
+1. download allure.zip
+2. create path variable and save bin path
+
+install pytest adapter:
+3. pip install allure-pytest
+
+4. Run below command:
+   pytest --alluredir allure-results
+   : it dumps all results in this directory
+5. Publish on local server
+    allure serve allure-results
+
+
+for installing framework on another machine
+pip freeze > requirement.txt
+
+0. install python, java for allure reports
+1. get all source code
+2. pip install -r requirement.txt

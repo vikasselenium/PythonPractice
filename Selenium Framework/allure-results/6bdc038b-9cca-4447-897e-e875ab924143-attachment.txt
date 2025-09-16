@@ -1,0 +1,4 @@
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:65 Element found using id with valueemail1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:65 Element found using id with valuepassword1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:65 Element found using class with valuesubmit-btn
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:69 Element not found using class with valuewelcomeMessage
