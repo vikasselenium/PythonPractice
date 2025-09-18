@@ -25,6 +25,7 @@ class SeleniumDriver:
             file_path=screenshot_dir+"\\"+"automation"+"_"+timestamp+".png"
             #file_path=os.path.join(screenshot_dir+"automation",timestamp,".png")
             status= self.driver.save_screenshot(file_path)
+            #status= self.driver.save_screenshot(file_path)
             return file_path
 
         except Exception as e:
