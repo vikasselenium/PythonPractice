@@ -6,7 +6,7 @@ from base.selenium_driver import SeleniumDriver
 
 @pytest.fixture(scope='class')
 def setup(request):
-    wdf = WebDriverFactory("edge")
+    wdf = WebDriverFactory("chrome")
     driver = wdf.getWebDriverInstance()
     print("application is up and running")
     if request.cls is not None:
